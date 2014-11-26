@@ -1,0 +1,27 @@
+{
+  "name": "Group Vote",
+  "version": "0.0.1",
+  "authors": [
+    "Jilles Soeters <info@jilles.me>"
+  ],
+  "description": "Voting for Group(chat)s.",
+  "main": "-",
+  "keywords": [
+    "Vote",
+    "Group",
+    "Chat"
+  ],
+  "license": "MIT",
+  "homepage": "jilles.sexy/v/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.4"
+  }
+}
